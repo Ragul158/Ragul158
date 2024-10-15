@@ -1,11 +1,11 @@
-![MasterHead](https://images-ext-1.discordapp.net/external/MG0Vce2Njf_iADb05TRg_AVo6UqXxQztpVovwyCrrKc/https/user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif?width=500&height=180)
-
+![MasterHead](https://images-ext-1.discordapp.net/external/-2yhZtKqUhw54x-xdxUg1x1Kx8903pGQ5P6lYeJzigM/https/raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif?width=1432&height=395)
 <h1 align="center">Hi 👋, I'm Ragul</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://images-ext-1.discordapp.net/external/3c8KL_T-9DzYyg6rZ09xGToQCKkcJiUUdFLdy35Btps/https/cdn.dribbble.com/users/1166566/screenshots/3549644/media/b4ee9cd65339f256329e558cd52ecfe3.gif?width=765&height=573">
+<img align="right" alt="Coding" width="400" src="https://images-ext-1.discordapp.net/external/k2myvfudhkvSo8tAk76DTI39wZXBkna-vy3E15cztH0/https/repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e?format=webp&width=1312&height=573">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragul&label=Profile%20views&color=0e75b6&style=flat" alt="ragul" /> </p>
+
 
 - 🔭 I’m currently working on **Leetcode Challenges**
 
